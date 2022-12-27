@@ -21,3 +21,7 @@ body{
     position: relative;
     top: 45px;
 }
+
+h3{
+    font-family: 'Gill Sans', 'Gill Sans MT','Trebuchet MS', sans-serif;
+}
